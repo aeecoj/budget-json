@@ -1,0 +1,2762 @@
+{
+    "page": 1,
+    "perPage": 400,
+    "totalItems": 306,
+    "totalPages": 1,
+    "items": [
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000001",
+    "created": "2022-11-29 06:10:57.172",
+    "id": "i0hhx62oq5p4eux",
+    "name": "ศาลฎีกา",
+    "updated": "2022-11-29 06:10:57.172"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000002",
+    "created": "2022-11-29 06:10:57.184",
+    "id": "bgxe78c0ybrh08n",
+    "name": "ศาลฎีกาแผนกคดีเยาวชนและครอบครัว",
+    "updated": "2022-11-29 06:10:57.184"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000003",
+    "created": "2022-11-29 06:10:57.195",
+    "id": "wlce0ctlcsbt7du",
+    "name": "ศาลฎีกาแผนกคดีแรงงาน",
+    "updated": "2022-11-29 06:10:57.195"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000004",
+    "created": "2022-11-29 06:10:57.205",
+    "id": "l2ljhbr5vrlhoxp",
+    "name": "ศาลฎีกาแผนกคดีภาษีอากร",
+    "updated": "2022-11-29 06:10:57.205"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000005",
+    "created": "2022-11-29 06:10:57.217",
+    "id": "6fc1a4doric4m52",
+    "name": "ศาลฎีกาแผนกคดีทรัพย์สินทางปัญญาและการค้าระหว่างประเทศ",
+    "updated": "2022-11-29 06:10:57.217"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000006",
+    "created": "2022-11-29 06:10:57.226",
+    "id": "5wllghamads90wn",
+    "name": "ศาลฎีกาแผนกคดีล้มละลาย",
+    "updated": "2022-11-29 06:10:57.226"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000007",
+    "created": "2022-11-29 06:10:57.235",
+    "id": "uiurr9azm7t1g48",
+    "name": "ศาลฎีกาแผนกคดีอาญาของผู้ดำรงตำแหน่งทางการเมือง",
+    "updated": "2022-11-29 06:10:57.235"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000008",
+    "created": "2022-11-29 06:10:57.246",
+    "id": "0qws39e55r6gu0e",
+    "name": "ศาลฎีกาแผนกคดีพาณิชย์และเศรษฐกิจ",
+    "updated": "2022-11-29 06:10:57.246"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000009",
+    "created": "2022-11-29 06:10:57.257",
+    "id": "zd915bwi7kmoikz",
+    "name": "ศาลฎีกาแผนกคดีสิ่งแวดล้อม",
+    "updated": "2022-11-29 06:10:57.257"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000010",
+    "created": "2022-11-29 06:10:57.266",
+    "id": "60efo08rvbspbpt",
+    "name": "ศาลฎีกาแผนกคดีผู้บริโภค",
+    "updated": "2022-11-29 06:10:57.266"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000011",
+    "created": "2022-11-29 06:10:57.276",
+    "id": "aj7ats1nbuc10ic",
+    "name": "ศาลฎีกาแผนกคดีเลือกตั้ง",
+    "updated": "2022-11-29 06:10:57.276"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "1000012",
+    "created": "2022-11-29 06:10:57.286",
+    "id": "04gvi7jipcdq0oj",
+    "name": "ศาลฎีกาแผนกคดีปกครอง (ภายใน)",
+    "updated": "2022-11-29 06:10:57.286"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000001",
+    "created": "2022-11-29 06:10:57.296",
+    "id": "s9sll91ahbosz8y",
+    "name": "ศาลอุทธรณ์",
+    "updated": "2022-11-29 06:10:57.296"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000002",
+    "created": "2022-11-29 06:10:57.347",
+    "id": "z9eew9yhgcubzit",
+    "name": "ศาลอุทธรณ์คดีชำนัญพิเศษ",
+    "updated": "2022-11-29 06:10:57.347"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000101",
+    "created": "2022-11-29 06:10:57.358",
+    "id": "vdlwr1er2dqkllo",
+    "name": "ศาลอุทธรณ์ภาค 1",
+    "updated": "2022-11-29 06:10:57.358"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000201",
+    "created": "2022-11-29 06:10:57.368",
+    "id": "h05akxpbeywkqb2",
+    "name": "ศาลอุทธรณ์ภาค 2",
+    "updated": "2022-11-29 06:10:57.368"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000301",
+    "created": "2022-11-29 06:10:57.379",
+    "id": "bmym77j2lq5eina",
+    "name": "ศาลอุทธรณ์ภาค 3",
+    "updated": "2022-11-29 06:10:57.379"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000401",
+    "created": "2022-11-29 06:10:57.398",
+    "id": "55ft625yflm7k7t",
+    "name": "ศาลอุทธรณ์ภาค 4",
+    "updated": "2022-11-29 06:10:57.398"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000501",
+    "created": "2022-11-29 06:10:57.411",
+    "id": "4yf698lojanexup",
+    "name": "ศาลอุทธรณ์ภาค 5",
+    "updated": "2022-11-29 06:10:57.411"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000601",
+    "created": "2022-11-29 06:10:57.459",
+    "id": "yvisp64n8ribaj8",
+    "name": "ศาลอุทธรณ์ภาค 6",
+    "updated": "2022-11-29 06:10:57.459"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000701",
+    "created": "2022-11-29 06:10:57.469",
+    "id": "vjebe9kb8v3spwi",
+    "name": "ศาลอุทธรณ์ภาค 7",
+    "updated": "2022-11-29 06:10:57.469"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000801",
+    "created": "2022-11-29 06:10:57.697",
+    "id": "8795u6ckltbtxvu",
+    "name": "ศาลอุทธรณ์ภาค 8",
+    "updated": "2022-11-29 06:10:57.697"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000901",
+    "created": "2022-11-29 06:10:57.707",
+    "id": "ckjkrrmwg15nkkr",
+    "name": "ศาลอุทธรณ์ภาค 9",
+    "updated": "2022-11-29 06:10:57.707"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3010001",
+    "created": "2022-11-29 06:10:57.718",
+    "id": "nt2231j4vyj0so0",
+    "name": "ศาลแพ่ง",
+    "updated": "2022-11-29 06:10:57.718"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3010002",
+    "created": "2022-11-29 06:10:57.729",
+    "id": "6hw69846sapoeb3",
+    "name": "ศาลแพ่งกรุงเทพใต้",
+    "updated": "2022-11-29 06:10:57.729"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3010003",
+    "created": "2022-11-29 06:10:57.738",
+    "id": "6c2wqldyhp8diuz",
+    "name": "ศาลแพ่งธนบุรี",
+    "updated": "2022-11-29 06:10:57.738"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3010004",
+    "created": "2022-11-29 06:10:57.747",
+    "id": "34tu1rb4lut7mks",
+    "name": "ศาลแพ่งตลิ่งชัน",
+    "updated": "2022-11-29 06:10:57.747"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3010005",
+    "created": "2022-11-29 06:10:57.760",
+    "id": "iaf4l1berxo3bpb",
+    "name": "ศาลแพ่งพระโขนง",
+    "updated": "2022-11-29 06:10:57.760"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3010006",
+    "created": "2022-11-29 06:10:57.797",
+    "id": "8gvue2sul99oscf",
+    "name": "ศาลแพ่งมีนบุรี",
+    "updated": "2022-11-29 06:10:57.797"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020001",
+    "created": "2022-11-29 06:10:57.807",
+    "id": "djchjyk2ou12o6v",
+    "name": "ศาลอาญา",
+    "updated": "2022-11-29 06:10:57.807"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020002",
+    "created": "2022-11-29 06:10:57.816",
+    "id": "h9hqxmoxv72kpck",
+    "name": "ศาลอาญากรุงเทพใต้",
+    "updated": "2022-11-29 06:10:57.816"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020003",
+    "created": "2022-11-29 06:10:57.827",
+    "id": "lbfpgynn9dgftuj",
+    "name": "ศาลอาญาธนบุรี",
+    "updated": "2022-11-29 06:10:57.827"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020004",
+    "created": "2022-11-29 06:10:57.836",
+    "id": "6ezo7xhm50uk8a1",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบกลาง",
+    "updated": "2022-11-29 06:10:57.836"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020005",
+    "created": "2022-11-29 06:10:57.848",
+    "id": "95o3ft9apjivliz",
+    "name": "ศาลอาญาพระโขนง",
+    "updated": "2022-11-29 06:10:57.848"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020006",
+    "created": "2022-11-29 06:10:57.857",
+    "id": "mq3cil91vaprm4w",
+    "name": "ศาลอาญามีนบุรี",
+    "updated": "2022-11-29 06:10:57.857"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020007",
+    "created": "2022-11-29 06:10:57.866",
+    "id": "c2i6zxjnlttfgks",
+    "name": "ศาลอาญาตลิ่งชัน",
+    "updated": "2022-11-29 06:10:57.866"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020101",
+    "created": "2022-11-29 06:10:57.876",
+    "id": "zxxod4ajn5o6w3j",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 1",
+    "updated": "2022-11-29 06:10:57.876"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020201",
+    "created": "2022-11-29 06:10:57.885",
+    "id": "ehek5kl6zg0xzat",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 2",
+    "updated": "2022-11-29 06:10:57.885"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020301",
+    "created": "2022-11-29 06:10:57.896",
+    "id": "lg37nfn4w55rch0",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 3",
+    "updated": "2022-11-29 06:10:57.896"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020401",
+    "created": "2022-11-29 06:10:57.905",
+    "id": "89aerijan2vcw6x",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 4",
+    "updated": "2022-11-29 06:10:57.905"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020501",
+    "created": "2022-11-29 06:10:57.918",
+    "id": "jtntjbebyxy95ah",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 5",
+    "updated": "2022-11-29 06:10:57.918"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020601",
+    "created": "2022-11-29 06:10:57.929",
+    "id": "y0cgwpq0vmpselj",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 6",
+    "updated": "2022-11-29 06:10:57.929"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020701",
+    "created": "2022-11-29 06:10:57.938",
+    "id": "terp4djh0jo99bq",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 7",
+    "updated": "2022-11-29 06:10:57.938"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020801",
+    "created": "2022-11-29 06:10:57.948",
+    "id": "ts8h894l0hb6yud",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 8",
+    "updated": "2022-11-29 06:10:57.948"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3020901",
+    "created": "2022-11-29 06:10:57.957",
+    "id": "uj9n95vaycea5b3",
+    "name": "ศาลอาญาคดีทุจริตและประพฤติมิชอบภาค 9",
+    "updated": "2022-11-29 06:10:57.957"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030001",
+    "created": "2022-11-29 06:10:57.966",
+    "id": "xoj70qkbeyeee5k",
+    "name": "ศาลแรงงานกลาง",
+    "updated": "2022-11-29 06:10:57.966"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030101",
+    "created": "2022-11-29 06:10:57.975",
+    "id": "sf72c0lpm2fa60g",
+    "name": "ศาลแรงงานภาค 1",
+    "updated": "2022-11-29 06:10:57.975"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030201",
+    "created": "2022-11-29 06:10:57.984",
+    "id": "3ssviqrifzu18qd",
+    "name": "ศาลแรงงานภาค 2",
+    "updated": "2022-11-29 06:10:57.984"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030301",
+    "created": "2022-11-29 06:10:57.994",
+    "id": "vo8kkuien976ksn",
+    "name": "ศาลแรงงานภาค 3",
+    "updated": "2022-11-29 06:10:57.994"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030401",
+    "created": "2022-11-29 06:10:58.222",
+    "id": "qy6e7eyf5b0kpda",
+    "name": "ศาลแรงงานภาค 4",
+    "updated": "2022-11-29 06:10:58.222"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030501",
+    "created": "2022-11-29 06:10:58.232",
+    "id": "rtmoyqvmgzgrcf0",
+    "name": "ศาลแรงงานภาค 5",
+    "updated": "2022-11-29 06:10:58.232"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030601",
+    "created": "2022-11-29 06:10:58.243",
+    "id": "731uaalxq8wxrxa",
+    "name": "ศาลแรงงานภาค 6",
+    "updated": "2022-11-29 06:10:58.243"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030701",
+    "created": "2022-11-29 06:10:58.253",
+    "id": "o76qxxbf7p02ypn",
+    "name": "ศาลแรงงานภาค 7",
+    "updated": "2022-11-29 06:10:58.253"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030801",
+    "created": "2022-11-29 06:10:58.264",
+    "id": "u84ni75rl8lun48",
+    "name": "ศาลแรงงานภาค 8",
+    "updated": "2022-11-29 06:10:58.264"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030901",
+    "created": "2022-11-29 06:10:58.297",
+    "id": "03qr5hyphoa9tk1",
+    "name": "ศาลแรงงานภาค 9",
+    "updated": "2022-11-29 06:10:58.297"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3040001",
+    "created": "2022-11-29 06:10:58.311",
+    "id": "le0fe01464s41ku",
+    "name": "ศาลภาษีอากรกลาง",
+    "updated": "2022-11-29 06:10:58.311"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3050001",
+    "created": "2022-11-29 06:10:58.331",
+    "id": "va1roy47qarnquq",
+    "name": "ศาลทรัพย์สินทางปัญญาและการค้าระหว่างประเทศกลาง",
+    "updated": "2022-11-29 06:10:58.331"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3060001",
+    "created": "2022-11-29 06:10:58.341",
+    "id": "8j01xywoq4aayhz",
+    "name": "ศาลล้มละลายกลาง",
+    "updated": "2022-11-29 06:10:58.341"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070104",
+    "created": "2022-11-29 06:10:58.351",
+    "id": "q8qugbaez5bjna1",
+    "name": "ศาลจังหวัดสมุทรปราการ",
+    "updated": "2022-11-29 06:10:58.351"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070105",
+    "created": "2022-11-29 06:10:58.364",
+    "id": "fgd4yjalhqiwkos",
+    "name": "ศาลจังหวัดนนทบุรี",
+    "updated": "2022-11-29 06:10:58.364"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070106",
+    "created": "2022-11-29 06:10:58.373",
+    "id": "alh3ey5cwh5jzsc",
+    "name": "ศาลจังหวัดปทุมธานี",
+    "updated": "2022-11-29 06:10:58.373"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070107",
+    "created": "2022-11-29 06:10:58.382",
+    "id": "cezegt7dcliuirq",
+    "name": "ศาลจังหวัดธัญบุรี",
+    "updated": "2022-11-29 06:10:58.382"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070108",
+    "created": "2022-11-29 06:10:58.393",
+    "id": "txb38vgay2i372n",
+    "name": "ศาลจังหวัดพระนครศรีอยุธยา",
+    "updated": "2022-11-29 06:10:58.393"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070109",
+    "created": "2022-11-29 06:10:58.404",
+    "id": "1vhob24i980b8r0",
+    "name": "ศาลจังหวัดอ่างทอง",
+    "updated": "2022-11-29 06:10:58.404"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070110",
+    "created": "2022-11-29 06:10:58.414",
+    "id": "rcnndpjs8snaedk",
+    "name": "ศาลจังหวัดลพบุรี",
+    "updated": "2022-11-29 06:10:58.414"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070111",
+    "created": "2022-11-29 06:10:58.423",
+    "id": "qgx8ikn836ok9w1",
+    "name": "ศาลจังหวัดสิงห์บุรี",
+    "updated": "2022-11-29 06:10:58.423"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070112",
+    "created": "2022-11-29 06:10:58.432",
+    "id": "bqltic7olwjrj4u",
+    "name": "ศาลจังหวัดชัยนาท",
+    "updated": "2022-11-29 06:10:58.432"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070113",
+    "created": "2022-11-29 06:10:58.443",
+    "id": "hnspjv67ik9494q",
+    "name": "ศาลจังหวัดชัยบาดาล",
+    "updated": "2022-11-29 06:10:58.443"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070114",
+    "created": "2022-11-29 06:10:58.454",
+    "id": "ct9dvjc8brnqh8w",
+    "name": "ศาลจังหวัดสระบุรี",
+    "updated": "2022-11-29 06:10:58.454"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070201",
+    "created": "2022-11-29 06:10:58.463",
+    "id": "680c16yfgvfdjze",
+    "name": "ศาลจังหวัดชลบุรี",
+    "updated": "2022-11-29 06:10:58.463"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070202",
+    "created": "2022-11-29 06:10:58.481",
+    "id": "x8fqujp1ps9ddip",
+    "name": "ศาลจังหวัดพัทยา",
+    "updated": "2022-11-29 06:10:58.481"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070203",
+    "created": "2022-11-29 06:10:58.491",
+    "id": "zrx48z5brlqwrx3",
+    "name": "ศาลจังหวัดระยอง",
+    "updated": "2022-11-29 06:10:58.491"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070204",
+    "created": "2022-11-29 06:10:58.500",
+    "id": "jw6htzz2itxxccj",
+    "name": "ศาลจังหวัดจันทบุรี",
+    "updated": "2022-11-29 06:10:58.500"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070205",
+    "created": "2022-11-29 06:10:58.512",
+    "id": "3e2r7ynubpc40mu",
+    "name": "ศาลจังหวัดตราด",
+    "updated": "2022-11-29 06:10:58.512"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070206",
+    "created": "2022-11-29 06:10:58.612",
+    "id": "yxuw7rc59tqmkyb",
+    "name": "ศาลจังหวัดฉะเชิงเทรา",
+    "updated": "2022-11-29 06:10:58.612"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070207",
+    "created": "2022-11-29 06:10:58.622",
+    "id": "xrjg2i275i8nytx",
+    "name": "ศาลจังหวัดปราจีนบุรี",
+    "updated": "2022-11-29 06:10:58.622"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070208",
+    "created": "2022-11-29 06:10:58.631",
+    "id": "7i3nfz6ou5xsche",
+    "name": "ศาลจังหวัดกบินทร์บุรี",
+    "updated": "2022-11-29 06:10:58.631"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070209",
+    "created": "2022-11-29 06:10:58.640",
+    "id": "zlyoc0yo8ws6evm",
+    "name": "ศาลจังหวัดนครนายก",
+    "updated": "2022-11-29 06:10:58.640"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070210",
+    "created": "2022-11-29 06:10:58.651",
+    "id": "bv4faeld95xsi5j",
+    "name": "ศาลจังหวัดสระแก้ว",
+    "updated": "2022-11-29 06:10:58.651"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070301",
+    "created": "2022-11-29 06:10:58.662",
+    "id": "wv9qaxk8mwx4wat",
+    "name": "ศาลจังหวัดนครราชสีมา",
+    "updated": "2022-11-29 06:10:58.662"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070302",
+    "created": "2022-11-29 06:10:58.671",
+    "id": "zfh7cvs1h28ma27",
+    "name": "ศาลจังหวัดบัวใหญ่",
+    "updated": "2022-11-29 06:10:58.671"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070303",
+    "created": "2022-11-29 06:10:58.681",
+    "id": "ymc6ltb9pxhi317",
+    "name": "ศาลจังหวัดสีคิ้ว",
+    "updated": "2022-11-29 06:10:58.681"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070304",
+    "created": "2022-11-29 06:10:58.691",
+    "id": "k3f6lnwbfzrwqm6",
+    "name": "ศาลจังหวัดสีคิ้ว (ปากช่อง)",
+    "updated": "2022-11-29 06:10:58.691"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070305",
+    "created": "2022-11-29 06:10:58.700",
+    "id": "g1t10co5uupfk80",
+    "name": "ศาลจังหวัดบุรีรัมย์",
+    "updated": "2022-11-29 06:10:58.700"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070306",
+    "created": "2022-11-29 06:10:58.712",
+    "id": "r30d0go69l0xonk",
+    "name": "ศาลจังหวัดนางรอง",
+    "updated": "2022-11-29 06:10:58.712"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070307",
+    "created": "2022-11-29 06:10:58.723",
+    "id": "sqdny8jcrsiayt7",
+    "name": "ศาลจังหวัดสุรินทร์",
+    "updated": "2022-11-29 06:10:58.723"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070308",
+    "created": "2022-11-29 06:10:58.734",
+    "id": "su3cscpm3vi5zfp",
+    "name": "ศาลจังหวัดรัตนบุรี",
+    "updated": "2022-11-29 06:10:58.734"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070309",
+    "created": "2022-11-29 06:10:58.745",
+    "id": "v45r5dnovpye83o",
+    "name": "ศาลจังหวัดศรีสะเกษ",
+    "updated": "2022-11-29 06:10:58.745"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070311",
+    "created": "2022-11-29 06:10:58.763",
+    "id": "j8u0jo5tafgplfb",
+    "name": "ศาลจังหวัดอุบลราชธานี",
+    "updated": "2022-11-29 06:10:58.763"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070312",
+    "created": "2022-11-29 06:10:58.773",
+    "id": "656sjiohekutt1y",
+    "name": "ศาลจังหวัดเดชอุดม",
+    "updated": "2022-11-29 06:10:58.773"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070313",
+    "created": "2022-11-29 06:10:58.783",
+    "id": "wmto1zl5b8lctz4",
+    "name": "ศาลจังหวัดยโสธร",
+    "updated": "2022-11-29 06:10:58.783"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070314",
+    "created": "2022-11-29 06:10:58.795",
+    "id": "zrlbtfyp8ypbc40",
+    "name": "ศาลจังหวัดชัยภูมิ",
+    "updated": "2022-11-29 06:10:58.795"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070315",
+    "created": "2022-11-29 06:10:58.804",
+    "id": "abuh91hzgqytscf",
+    "name": "ศาลจังหวัดภูเขียว",
+    "updated": "2022-11-29 06:10:58.804"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070316",
+    "created": "2022-11-29 06:10:58.815",
+    "id": "1adslskbw26rjxm",
+    "name": "ศาลจังหวัดอำนาจเจริญ",
+    "updated": "2022-11-29 06:10:58.815"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070317",
+    "created": "2022-11-29 06:10:58.828",
+    "id": "xgfscg1izrwkmon",
+    "name": "ศาลจังหวัดพิมาย",
+    "updated": "2022-11-29 06:10:58.828"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070318",
+    "created": "2022-11-29 06:10:58.841",
+    "id": "81gkmvmc4ocaj5l",
+    "name": "ศาลจังหวัดกันทรลักษ์",
+    "updated": "2022-11-29 06:10:58.841"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070401",
+    "created": "2022-11-29 06:10:58.851",
+    "id": "30788swfkk0xdu7",
+    "name": "ศาลจังหวัดบึงกาฬ",
+    "updated": "2022-11-29 06:10:58.851"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070402",
+    "created": "2022-11-29 06:10:58.863",
+    "id": "gzkipm91i0loeph",
+    "name": "ศาลจังหวัดหนองบัวลำภู",
+    "updated": "2022-11-29 06:10:58.863"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070403",
+    "created": "2022-11-29 06:10:58.873",
+    "id": "iybmfal4idr8pqy",
+    "name": "ศาลจังหวัดขอนแก่น",
+    "updated": "2022-11-29 06:10:58.873"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070404",
+    "created": "2022-11-29 06:10:58.884",
+    "id": "fqlb7tlt2r483n7",
+    "name": "ศาลจังหวัดพล",
+    "updated": "2022-11-29 06:10:58.884"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070405",
+    "created": "2022-11-29 06:10:58.929",
+    "id": "k1s3imf72675wmj",
+    "name": "ศาลจังหวัดอุดรธานี",
+    "updated": "2022-11-29 06:10:58.929"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070406",
+    "created": "2022-11-29 06:10:58.939",
+    "id": "qv7yf8nybcasuxe",
+    "name": "ศาลจังหวัดเลย",
+    "updated": "2022-11-29 06:10:58.939"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070407",
+    "created": "2022-11-29 06:10:58.962",
+    "id": "r3rh70rq43hof10",
+    "name": "ศาลจังหวัดหนองคาย",
+    "updated": "2022-11-29 06:10:58.962"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070408",
+    "created": "2022-11-29 06:10:58.971",
+    "id": "ecnv9xipxjf4i4l",
+    "name": "ศาลจังหวัดมหาสารคาม",
+    "updated": "2022-11-29 06:10:58.971"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070409",
+    "created": "2022-11-29 06:10:58.981",
+    "id": "yggsl0isnuqcwce",
+    "name": "ศาลจังหวัดร้อยเอ็ด",
+    "updated": "2022-11-29 06:10:58.981"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070410",
+    "created": "2022-11-29 06:10:58.995",
+    "id": "qmvmpk1yz27wyc8",
+    "name": "ศาลจังหวัดกาฬสินธุ์",
+    "updated": "2022-11-29 06:10:58.995"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070411",
+    "created": "2022-11-29 06:10:59.037",
+    "id": "5bwk4jdnnsk6r2i",
+    "name": "ศาลจังหวัดสกลนคร",
+    "updated": "2022-11-29 06:10:59.037"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070412",
+    "created": "2022-11-29 06:10:59.268",
+    "id": "eg2l7v8w8b95be9",
+    "name": "ศาลจังหวัดสว่างแดนดิน",
+    "updated": "2022-11-29 06:10:59.268"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070413",
+    "created": "2022-11-29 06:10:59.277",
+    "id": "n0r0k4fti9c6lqf",
+    "name": "ศาลจังหวัดนครพนม",
+    "updated": "2022-11-29 06:10:59.277"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070414",
+    "created": "2022-11-29 06:10:59.286",
+    "id": "zylgi4ohoqji5bd",
+    "name": "ศาลจังหวัดมุกดาหาร",
+    "updated": "2022-11-29 06:10:59.286"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070415",
+    "created": "2022-11-29 06:10:59.296",
+    "id": "s3aruvpytp0fq1q",
+    "name": "ศาลจังหวัดชุมแพ",
+    "updated": "2022-11-29 06:10:59.296"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070501",
+    "created": "2022-11-29 06:10:59.305",
+    "id": "sczuj3mvqexko4a",
+    "name": "ศาลจังหวัดเชียงใหม่",
+    "updated": "2022-11-29 06:10:59.305"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070502",
+    "created": "2022-11-29 06:10:59.314",
+    "id": "z0mk5eorg9jxnd1",
+    "name": "ศาลจังหวัดฝาง",
+    "updated": "2022-11-29 06:10:59.314"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070503",
+    "created": "2022-11-29 06:10:59.324",
+    "id": "nua1nyqvq68evdy",
+    "name": "ศาลจังหวัดลำพูน",
+    "updated": "2022-11-29 06:10:59.324"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070504",
+    "created": "2022-11-29 06:10:59.383",
+    "id": "y3kel9r5ddqwwlt",
+    "name": "ศาลจังหวัดลำปาง",
+    "updated": "2022-11-29 06:10:59.383"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070505",
+    "created": "2022-11-29 06:10:59.399",
+    "id": "c1w0l15jjc3odt1",
+    "name": "ศาลจังหวัดแพร่",
+    "updated": "2022-11-29 06:10:59.399"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070506",
+    "created": "2022-11-29 06:10:59.411",
+    "id": "y2qdlf6c9byv831",
+    "name": "ศาลจังหวัดน่าน",
+    "updated": "2022-11-29 06:10:59.411"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070508",
+    "created": "2022-11-29 06:10:59.420",
+    "id": "yew7vpa12p6nibt",
+    "name": "ศาลจังหวัดพะเยา",
+    "updated": "2022-11-29 06:10:59.420"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070509",
+    "created": "2022-11-29 06:10:59.432",
+    "id": "z14811yovvcwmzv",
+    "name": "ศาลจังหวัดเชียงราย",
+    "updated": "2022-11-29 06:10:59.432"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070510",
+    "created": "2022-11-29 06:10:59.441",
+    "id": "z26gikl87gkkdo5",
+    "name": "ศาลจังหวัดเทิง",
+    "updated": "2022-11-29 06:10:59.441"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070511",
+    "created": "2022-11-29 06:10:59.450",
+    "id": "ajs8uzfkrmmagfa",
+    "name": "ศาลจังหวัดแม่ฮ่องสอน",
+    "updated": "2022-11-29 06:10:59.450"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070513",
+    "created": "2022-11-29 06:10:59.460",
+    "id": "ldirbgz19orutzr",
+    "name": "ศาลจังหวัดแม่สะเรียง",
+    "updated": "2022-11-29 06:10:59.460"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070514",
+    "created": "2022-11-29 06:10:59.498",
+    "id": "3m8hyrkxwqjkqyj",
+    "name": "ศาลจังหวัดฮอด",
+    "updated": "2022-11-29 06:10:59.498"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070515",
+    "created": "2022-11-29 06:10:59.508",
+    "id": "5ow7em84d3djlc1",
+    "name": "ศาลจังหวัดเชียงคำ",
+    "updated": "2022-11-29 06:10:59.508"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070601",
+    "created": "2022-11-29 06:10:59.518",
+    "id": "crxbbknygki5xpy",
+    "name": "ศาลจังหวัดอุตรดิตถ์",
+    "updated": "2022-11-29 06:10:59.518"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070602",
+    "created": "2022-11-29 06:10:59.529",
+    "id": "i8fmf27uju6c24s",
+    "name": "ศาลจังหวัดนครสวรรค์",
+    "updated": "2022-11-29 06:10:59.529"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070603",
+    "created": "2022-11-29 06:10:59.539",
+    "id": "d5a269e0gjbctsb",
+    "name": "ศาลจังหวัดอุทัยธานี",
+    "updated": "2022-11-29 06:10:59.539"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070604",
+    "created": "2022-11-29 06:10:59.549",
+    "id": "lsux8rz6d1ix1g2",
+    "name": "ศาลจังหวัดกำแพงเพชร",
+    "updated": "2022-11-29 06:10:59.549"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070605",
+    "created": "2022-11-29 06:10:59.558",
+    "id": "lkh83g2v1a9uwud",
+    "name": "ศาลจังหวัดตาก",
+    "updated": "2022-11-29 06:10:59.558"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070606",
+    "created": "2022-11-29 06:10:59.570",
+    "id": "gcwmdqc3yisvpaz",
+    "name": "ศาลจังหวัดแม่สอด",
+    "updated": "2022-11-29 06:10:59.570"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070607",
+    "created": "2022-11-29 06:10:59.668",
+    "id": "tbp7iyneclenblo",
+    "name": "ศาลจังหวัดสุโขทัย",
+    "updated": "2022-11-29 06:10:59.668"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070608",
+    "created": "2022-11-29 06:10:59.680",
+    "id": "sxfw1rlagids76p",
+    "name": "ศาลจังหวัดสวรรคโลก",
+    "updated": "2022-11-29 06:10:59.680"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070609",
+    "created": "2022-11-29 06:10:59.689",
+    "id": "xgli609l5co4sxr",
+    "name": "ศาลจังหวัดพิษณุโลก",
+    "updated": "2022-11-29 06:10:59.689"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070610",
+    "created": "2022-11-29 06:10:59.698",
+    "id": "p438fwomt4ixwti",
+    "name": "ศาลจังหวัดพิจิตร",
+    "updated": "2022-11-29 06:10:59.698"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070611",
+    "created": "2022-11-29 06:10:59.706",
+    "id": "a20r9jx6nho8czw",
+    "name": "ศาลจังหวัดเพชรบูรณ์",
+    "updated": "2022-11-29 06:10:59.706"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070612",
+    "created": "2022-11-29 06:10:59.719",
+    "id": "063eoum2nmq9u1v",
+    "name": "ศาลจังหวัดหล่มสัก",
+    "updated": "2022-11-29 06:10:59.719"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070613",
+    "created": "2022-11-29 06:10:59.730",
+    "id": "dvhn4uf7edmpa4u",
+    "name": "ศาลจังหวัดวิเชียรบุรี",
+    "updated": "2022-11-29 06:10:59.730"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070701",
+    "created": "2022-11-29 06:10:59.739",
+    "id": "i6n0clbkb9lq2k9",
+    "name": "ศาลจังหวัดราชบุรี",
+    "updated": "2022-11-29 06:10:59.739"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070702",
+    "created": "2022-11-29 06:10:59.750",
+    "id": "3tunzk73seivr30",
+    "name": "ศาลจังหวัดกาญจนบุรี",
+    "updated": "2022-11-29 06:10:59.750"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070703",
+    "created": "2022-11-29 06:10:59.760",
+    "id": "nohjynnrqjhj3p1",
+    "name": "ศาลจังหวัดทองผาภูมิ",
+    "updated": "2022-11-29 06:10:59.760"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070704",
+    "created": "2022-11-29 06:10:59.770",
+    "id": "qodlwshuc214pzv",
+    "name": "ศาลจังหวัดสุพรรณบุรี",
+    "updated": "2022-11-29 06:10:59.770"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070705",
+    "created": "2022-11-29 06:10:59.783",
+    "id": "gtvfpzca1t1gekv",
+    "name": "ศาลจังหวัดนครปฐม",
+    "updated": "2022-11-29 06:10:59.783"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070706",
+    "created": "2022-11-29 06:10:59.794",
+    "id": "fmy5hh8gihyontg",
+    "name": "ศาลจังหวัดสมุทรสาคร",
+    "updated": "2022-11-29 06:10:59.794"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070707",
+    "created": "2022-11-29 06:10:59.833",
+    "id": "dkz7uul5ir662ri",
+    "name": "ศาลจังหวัดสมุทรสงคราม",
+    "updated": "2022-11-29 06:10:59.833"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070708",
+    "created": "2022-11-29 06:10:59.843",
+    "id": "b2l4ofbgb1pprpd",
+    "name": "ศาลจังหวัดเพชรบุรี",
+    "updated": "2022-11-29 06:10:59.843"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070709",
+    "created": "2022-11-29 06:10:59.853",
+    "id": "jsotkhcwjgyb0o9",
+    "name": "ศาลจังหวัดประจวบคีรีขันธ์",
+    "updated": "2022-11-29 06:10:59.853"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070710",
+    "created": "2022-11-29 06:10:59.882",
+    "id": "yej1w56l9yzyh1l",
+    "name": "ศาลจังหวัดหัวหิน",
+    "updated": "2022-11-29 06:10:59.882"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070801",
+    "created": "2022-11-29 06:10:59.892",
+    "id": "ixgd99tmqlbbfvf",
+    "name": "ศาลจังหวัดนครศรีธรรมราช",
+    "updated": "2022-11-29 06:10:59.892"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070802",
+    "created": "2022-11-29 06:10:59.901",
+    "id": "pzbm54p8k04deil",
+    "name": "ศาลจังหวัดทุ่งสง",
+    "updated": "2022-11-29 06:10:59.901"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070803",
+    "created": "2022-11-29 06:10:59.915",
+    "id": "2wqwckj4nwoucd1",
+    "name": "ศาลจังหวัดปากพนัง",
+    "updated": "2022-11-29 06:10:59.915"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070804",
+    "created": "2022-11-29 06:10:59.925",
+    "id": "gdp3pb0iv4nlane",
+    "name": "ศาลจังหวัดกระบี่",
+    "updated": "2022-11-29 06:10:59.925"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070805",
+    "created": "2022-11-29 06:10:59.935",
+    "id": "u8nmbdqgpta2xux",
+    "name": "ศาลจังหวัดพังงา",
+    "updated": "2022-11-29 06:10:59.935"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070806",
+    "created": "2022-11-29 06:10:59.945",
+    "id": "ggcmx61r5kv26s1",
+    "name": "ศาลจังหวัดตะกั่วป่า",
+    "updated": "2022-11-29 06:10:59.945"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070807",
+    "created": "2022-11-29 06:10:59.954",
+    "id": "fl8d90ukepk3xlh",
+    "name": "ศาลจังหวัดภูเก็ต",
+    "updated": "2022-11-29 06:10:59.954"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070808",
+    "created": "2022-11-29 06:10:59.964",
+    "id": "di72nskalbh5ugi",
+    "name": "ศาลจังหวัดสุราษฎร์ธานี",
+    "updated": "2022-11-29 06:10:59.964"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070809",
+    "created": "2022-11-29 06:10:59.974",
+    "id": "qb8xpa915ld1onz",
+    "name": "ศาลจังหวัดเกาะสมุย",
+    "updated": "2022-11-29 06:10:59.974"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070810",
+    "created": "2022-11-29 06:11:00.000",
+    "id": "zcwc5hiqbaazl4u",
+    "name": "ศาลจังหวัดไชยา",
+    "updated": "2022-11-29 06:11:00.000"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070811",
+    "created": "2022-11-29 06:11:00.009",
+    "id": "cv0dr56vxbz9svo",
+    "name": "ศาลจังหวัดเวียงสระ",
+    "updated": "2022-11-29 06:11:00.009"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070812",
+    "created": "2022-11-29 06:11:00.018",
+    "id": "gketxm1bven5a38",
+    "name": "ศาลจังหวัดระนอง",
+    "updated": "2022-11-29 06:11:00.018"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070813",
+    "created": "2022-11-29 06:11:00.030",
+    "id": "90nnbh95cidrdsx",
+    "name": "ศาลจังหวัดชุมพร",
+    "updated": "2022-11-29 06:11:00.030"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070814",
+    "created": "2022-11-29 06:11:00.041",
+    "id": "omehpobm4tbz7he",
+    "name": "ศาลจังหวัดหลังสวน",
+    "updated": "2022-11-29 06:11:00.041"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070901",
+    "created": "2022-11-29 06:11:00.050",
+    "id": "rqvr2tay6kgb2qg",
+    "name": "ศาลจังหวัดสงขลา",
+    "updated": "2022-11-29 06:11:00.050"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070902",
+    "created": "2022-11-29 06:11:00.062",
+    "id": "vpuw0h3ala8wczl",
+    "name": "ศาลจังหวัดนาทวี",
+    "updated": "2022-11-29 06:11:00.062"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070903",
+    "created": "2022-11-29 06:11:00.073",
+    "id": "7s9ltspx6gf4j0z",
+    "name": "ศาลจังหวัดสตูล",
+    "updated": "2022-11-29 06:11:00.073"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070904",
+    "created": "2022-11-29 06:11:00.084",
+    "id": "09831u2jmzteiom",
+    "name": "ศาลจังหวัดตรัง",
+    "updated": "2022-11-29 06:11:00.084"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070905",
+    "created": "2022-11-29 06:11:00.316",
+    "id": "3jf84jnqel2e0c8",
+    "name": "ศาลจังหวัดพัทลุง",
+    "updated": "2022-11-29 06:11:00.316"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070906",
+    "created": "2022-11-29 06:11:00.325",
+    "id": "030o567dtf09qwm",
+    "name": "ศาลจังหวัดปัตตานี",
+    "updated": "2022-11-29 06:11:00.325"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070907",
+    "created": "2022-11-29 06:11:00.335",
+    "id": "go578nmmaxs0jzc",
+    "name": "ศาลจังหวัดยะลา",
+    "updated": "2022-11-29 06:11:00.335"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070908",
+    "created": "2022-11-29 06:11:00.345",
+    "id": "mxay8cbfx82ewt8",
+    "name": "ศาลจังหวัดเบตง",
+    "updated": "2022-11-29 06:11:00.345"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070909",
+    "created": "2022-11-29 06:11:00.371",
+    "id": "20xt7bk1mp1vt2f",
+    "name": "ศาลจังหวัดนราธิวาส",
+    "updated": "2022-11-29 06:11:00.371"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080101",
+    "created": "2022-11-29 06:11:00.383",
+    "id": "m2dsnw0afddmnbf",
+    "name": "ศาลแขวงดุสิต",
+    "updated": "2022-11-29 06:11:00.383"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080102",
+    "created": "2022-11-29 06:11:00.393",
+    "id": "iefolwpjqneb714",
+    "name": "ศาลแขวงธนบุรี",
+    "updated": "2022-11-29 06:11:00.393"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080103",
+    "created": "2022-11-29 06:11:00.403",
+    "id": "b5x36q2nfv5ntdp",
+    "name": "ศาลแขวงปทุมวัน",
+    "updated": "2022-11-29 06:11:00.403"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080104",
+    "created": "2022-11-29 06:11:00.413",
+    "id": "gdc2db56j6ocm9x",
+    "name": "ศาลแขวงพระนครใต้",
+    "updated": "2022-11-29 06:11:00.413"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080105",
+    "created": "2022-11-29 06:11:00.422",
+    "id": "f86loalg8b3t3wi",
+    "name": "ศาลแขวงพระนครเหนือ",
+    "updated": "2022-11-29 06:11:00.422"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080106",
+    "created": "2022-11-29 06:11:00.431",
+    "id": "brkk78yykkib5o3",
+    "name": "ศาลแขวงสมุทรปราการ",
+    "updated": "2022-11-29 06:11:00.431"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080107",
+    "created": "2022-11-29 06:11:00.440",
+    "id": "44z0bkagc8neto2",
+    "name": "ศาลแขวงนนทบุรี",
+    "updated": "2022-11-29 06:11:00.440"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080108",
+    "created": "2022-11-29 06:11:00.450",
+    "id": "yf1ssl9an225iay",
+    "name": "ศาลแขวงพระนครศรีอยุธยา",
+    "updated": "2022-11-29 06:11:00.450"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080109",
+    "created": "2022-11-29 06:11:00.459",
+    "id": "01qq4sx3kzqadft",
+    "name": "ศาลแขวงลพบุรี",
+    "updated": "2022-11-29 06:11:00.459"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080110",
+    "created": "2022-11-29 06:11:00.468",
+    "id": "phecmbzexvmsc5e",
+    "name": "ศาลแขวงดอนเมือง",
+    "updated": "2022-11-29 06:11:00.468"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080111",
+    "created": "2022-11-29 06:11:00.480",
+    "id": "826mkjjp9q5qu9p",
+    "name": "ศาลแขวงสระบุรี",
+    "updated": "2022-11-29 06:11:00.480"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080112",
+    "created": "2022-11-29 06:11:00.489",
+    "id": "2u6c9x08mu0ffb6",
+    "name": "ศาลแขวงบางบอน",
+    "updated": "2022-11-29 06:11:00.489"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080201",
+    "created": "2022-11-29 06:11:00.499",
+    "id": "n7oadt4kmgclufm",
+    "name": "ศาลแขวงชลบุรี",
+    "updated": "2022-11-29 06:11:00.499"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080202",
+    "created": "2022-11-29 06:11:00.510",
+    "id": "w2gtnk2uhq4r262",
+    "name": "ศาลแขวงพัทยา",
+    "updated": "2022-11-29 06:11:00.510"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080203",
+    "created": "2022-11-29 06:11:00.519",
+    "id": "3rskygow3ua3t7n",
+    "name": "ศาลแขวงระยอง",
+    "updated": "2022-11-29 06:11:00.519"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080301",
+    "created": "2022-11-29 06:11:00.530",
+    "id": "dtzv20nizf5v6s1",
+    "name": "ศาลแขวงนครราชสีมา",
+    "updated": "2022-11-29 06:11:00.530"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080303",
+    "created": "2022-11-29 06:11:00.541",
+    "id": "h4b49zhhglmi69r",
+    "name": "ศาลแขวงสุรินทร์",
+    "updated": "2022-11-29 06:11:00.541"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080304",
+    "created": "2022-11-29 06:11:00.549",
+    "id": "4f3px9qm727hurv",
+    "name": "ศาลแขวงอุบลราชธานี",
+    "updated": "2022-11-29 06:11:00.549"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080401",
+    "created": "2022-11-29 06:11:00.559",
+    "id": "8bst29ag3ox4owt",
+    "name": "ศาลแขวงขอนแก่น",
+    "updated": "2022-11-29 06:11:00.559"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080402",
+    "created": "2022-11-29 06:11:00.571",
+    "id": "3ztd67n8mxa24sj",
+    "name": "ศาลแขวงอุดรธานี",
+    "updated": "2022-11-29 06:11:00.571"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080403",
+    "created": "2022-11-29 06:11:00.625",
+    "id": "rbo9k7s10z7850f",
+    "name": "ศาลแขวงพยัคฆภูมิพิสัย",
+    "updated": "2022-11-29 06:11:00.625"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080501",
+    "created": "2022-11-29 06:11:00.745",
+    "id": "w18vx899rnmd48v",
+    "name": "ศาลแขวงเชียงใหม่",
+    "updated": "2022-11-29 06:11:00.745"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080502",
+    "created": "2022-11-29 06:11:00.756",
+    "id": "e7bohfrmzeybuzu",
+    "name": "ศาลแขวงลำปาง",
+    "updated": "2022-11-29 06:11:00.756"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080503",
+    "created": "2022-11-29 06:11:00.766",
+    "id": "hfsfb2y85aawk0m",
+    "name": "ศาลแขวงเวียงป่าเป้า",
+    "updated": "2022-11-29 06:11:00.766"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080504",
+    "created": "2022-11-29 06:11:00.775",
+    "id": "brj91agdn7ptjmz",
+    "name": "ศาลแขวงเชียงราย",
+    "updated": "2022-11-29 06:11:00.775"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080505",
+    "created": "2022-11-29 06:11:00.801",
+    "id": "a32zc1j791thn9o",
+    "name": "ศาลแขวงเชียงดาว",
+    "updated": "2022-11-29 06:11:00.801"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080601",
+    "created": "2022-11-29 06:11:00.812",
+    "id": "wtawhi7rp56jx44",
+    "name": "ศาลแขวงนครสวรรค์",
+    "updated": "2022-11-29 06:11:00.812"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080602",
+    "created": "2022-11-29 06:11:00.821",
+    "id": "ahg3v062pi9vbdz",
+    "name": "ศาลแขวงพิษณุโลก",
+    "updated": "2022-11-29 06:11:00.821"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080603",
+    "created": "2022-11-29 06:11:00.831",
+    "id": "0fxdbbjjygiu5qf",
+    "name": "ศาลแขวงนครไทย",
+    "updated": "2022-11-29 06:11:00.831"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080701",
+    "created": "2022-11-29 06:11:00.844",
+    "id": "rszoko6fhewsqp0",
+    "name": "ศาลแขวงราชบุรี",
+    "updated": "2022-11-29 06:11:00.844"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080702",
+    "created": "2022-11-29 06:11:00.856",
+    "id": "oebonerrwi5ad76",
+    "name": "ศาลแขวงสุพรรณบุรี",
+    "updated": "2022-11-29 06:11:00.856"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080703",
+    "created": "2022-11-29 06:11:00.868",
+    "id": "uzqb4c633idxn4j",
+    "name": "ศาลแขวงนครปฐม",
+    "updated": "2022-11-29 06:11:00.868"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080801",
+    "created": "2022-11-29 06:11:00.879",
+    "id": "i69da0l57nqk3d0",
+    "name": "ศาลแขวงนครศรีธรรมราช",
+    "updated": "2022-11-29 06:11:00.879"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080802",
+    "created": "2022-11-29 06:11:00.889",
+    "id": "g3yfae5ox6keilm",
+    "name": "ศาลแขวงสุราษฎร์ธานี",
+    "updated": "2022-11-29 06:11:00.889"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080803",
+    "created": "2022-11-29 06:11:00.900",
+    "id": "8tmmasxvfmzkyy5",
+    "name": "ศาลแขวงทุ่งสง",
+    "updated": "2022-11-29 06:11:00.900"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080804",
+    "created": "2022-11-29 06:11:00.911",
+    "id": "8xv6f3yjhpgf05z",
+    "name": "ศาลแขวงภูเก็ต",
+    "updated": "2022-11-29 06:11:00.911"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080805",
+    "created": "2022-11-29 06:11:00.921",
+    "id": "ah5n01jfz8my974",
+    "name": "ศาลแขวงกระบี่",
+    "updated": "2022-11-29 06:11:00.921"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080901",
+    "created": "2022-11-29 06:11:00.931",
+    "id": "ycm1vr6ibsxmqdk",
+    "name": "ศาลแขวงสงขลา",
+    "updated": "2022-11-29 06:11:00.931"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3080902",
+    "created": "2022-11-29 06:11:00.941",
+    "id": "wf4ue8u307q7b1f",
+    "name": "ศาลแขวงตรัง",
+    "updated": "2022-11-29 06:11:00.941"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090001",
+    "created": "2022-11-29 06:11:00.950",
+    "id": "wp06gzph3bcsrsz",
+    "name": "ศาลเยาวชนและครอบครัวกลาง",
+    "updated": "2022-11-29 06:11:00.950"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090002",
+    "created": "2022-11-29 06:11:00.962",
+    "id": "qt4h13wdg27okcd",
+    "name": "ศาลเยาวชนและครอบครัวกลาง (สาขามีนบุรี)",
+    "updated": "2022-11-29 06:11:00.962"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090101",
+    "created": "2022-11-29 06:11:00.972",
+    "id": "dva56ltaa32b103",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสมุทรปราการ",
+    "updated": "2022-11-29 06:11:00.972"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090102",
+    "created": "2022-11-29 06:11:00.982",
+    "id": "ezalpewep6kymsn",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนนทบุรี",
+    "updated": "2022-11-29 06:11:00.982"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090103",
+    "created": "2022-11-29 06:11:00.991",
+    "id": "9i1sa5kld74bepf",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดปทุมธานี",
+    "updated": "2022-11-29 06:11:00.991"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090104",
+    "created": "2022-11-29 06:11:01.001",
+    "id": "ai6kabvt5umhi5b",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพระนครศรีอยุธยา",
+    "updated": "2022-11-29 06:11:01.001"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090105",
+    "created": "2022-11-29 06:11:01.013",
+    "id": "uexiymipaeupq0f",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดอ่างทอง",
+    "updated": "2022-11-29 06:11:01.013"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090106",
+    "created": "2022-11-29 06:11:01.022",
+    "id": "hxex8tu7srefwt5",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดลพบุรี",
+    "updated": "2022-11-29 06:11:01.022"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090107",
+    "created": "2022-11-29 06:11:01.031",
+    "id": "achv5ohmm6lv0a8",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสิงห์บุรี",
+    "updated": "2022-11-29 06:11:01.031"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090108",
+    "created": "2022-11-29 06:11:01.041",
+    "id": "4mtt0njb71ap2sx",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดชัยนาท",
+    "updated": "2022-11-29 06:11:01.041"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090109",
+    "created": "2022-11-29 06:11:01.383",
+    "id": "q96iyud0lqopxu3",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสระบุรี",
+    "updated": "2022-11-29 06:11:01.383"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090201",
+    "created": "2022-11-29 06:11:01.394",
+    "id": "6jt9mihvlxe7fg0",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดชลบุรี",
+    "updated": "2022-11-29 06:11:01.394"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090202",
+    "created": "2022-11-29 06:11:01.404",
+    "id": "5w4z262knnjq8nf",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดระยอง",
+    "updated": "2022-11-29 06:11:01.404"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090203",
+    "created": "2022-11-29 06:11:01.416",
+    "id": "rfno310y4r9ljz9",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดจันทบุรี",
+    "updated": "2022-11-29 06:11:01.416"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090204",
+    "created": "2022-11-29 06:11:01.426",
+    "id": "pcsoicabs2su1ip",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดตราด",
+    "updated": "2022-11-29 06:11:01.426"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090205",
+    "created": "2022-11-29 06:11:01.436",
+    "id": "iuyg49yvjv9tk0z",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดฉะเชิงเทรา",
+    "updated": "2022-11-29 06:11:01.436"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090206",
+    "created": "2022-11-29 06:11:01.448",
+    "id": "a09cxwh3w3ta8ie",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดปราจีนบุรี",
+    "updated": "2022-11-29 06:11:01.448"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090207",
+    "created": "2022-11-29 06:11:01.458",
+    "id": "p6kdy7wdo78klxi",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนครนายก",
+    "updated": "2022-11-29 06:11:01.458"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090208",
+    "created": "2022-11-29 06:11:01.467",
+    "id": "dary51ooy0lew63",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสระแก้ว",
+    "updated": "2022-11-29 06:11:01.467"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090301",
+    "created": "2022-11-29 06:11:01.479",
+    "id": "0cjyaop6isbb2uo",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนครราชสีมา",
+    "updated": "2022-11-29 06:11:01.479"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090302",
+    "created": "2022-11-29 06:11:01.490",
+    "id": "5uila8ps8evmdig",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดบุรีรัมย์",
+    "updated": "2022-11-29 06:11:01.490"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090303",
+    "created": "2022-11-29 06:11:01.534",
+    "id": "ovxz4se6fgi48hc",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสุรินทร์",
+    "updated": "2022-11-29 06:11:01.534"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090304",
+    "created": "2022-11-29 06:11:01.545",
+    "id": "ayu1waleszuyr8n",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดศรีสะเกษ",
+    "updated": "2022-11-29 06:11:01.545"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090305",
+    "created": "2022-11-29 06:11:01.555",
+    "id": "4dlmh2r6q4vlfd0",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดอุบลราชธานี",
+    "updated": "2022-11-29 06:11:01.555"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090306",
+    "created": "2022-11-29 06:11:01.564",
+    "id": "nmhoeglpiwg02zi",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดยโสธร",
+    "updated": "2022-11-29 06:11:01.564"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090307",
+    "created": "2022-11-29 06:11:01.574",
+    "id": "uwgp6rfbloswhft",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดชัยภูมิ",
+    "updated": "2022-11-29 06:11:01.574"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090308",
+    "created": "2022-11-29 06:11:01.583",
+    "id": "hnqeuzbcdctprmq",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดอำนาจเจริญ",
+    "updated": "2022-11-29 06:11:01.583"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090401",
+    "created": "2022-11-29 06:11:01.594",
+    "id": "jjonrdxakrakwmp",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดบึงกาฬ",
+    "updated": "2022-11-29 06:11:01.594"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090402",
+    "created": "2022-11-29 06:11:01.603",
+    "id": "re61ngmg0u18qj6",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดหนองบัวลำภู",
+    "updated": "2022-11-29 06:11:01.603"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090403",
+    "created": "2022-11-29 06:11:01.613",
+    "id": "9wef4pzaraw8vj0",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดขอนแก่น",
+    "updated": "2022-11-29 06:11:01.613"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090404",
+    "created": "2022-11-29 06:11:01.640",
+    "id": "viycezv05r9avh0",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดอุดรธานี",
+    "updated": "2022-11-29 06:11:01.640"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090405",
+    "created": "2022-11-29 06:11:01.654",
+    "id": "u8h22j41gfrdlqd",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดเลย",
+    "updated": "2022-11-29 06:11:01.654"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090406",
+    "created": "2022-11-29 06:11:02.089",
+    "id": "2d785ap6iqatfg6",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดหนองคาย",
+    "updated": "2022-11-29 06:11:02.089"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090407",
+    "created": "2022-11-29 06:11:02.097",
+    "id": "j7vr9b1lkdthopi",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดมหาสารคาม",
+    "updated": "2022-11-29 06:11:02.097"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090408",
+    "created": "2022-11-29 06:11:02.106",
+    "id": "uo76mopejnd9dqm",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดร้อยเอ็ด",
+    "updated": "2022-11-29 06:11:02.106"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090409",
+    "created": "2022-11-29 06:11:02.115",
+    "id": "tranexkutxyy92o",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดกาฬสินธุ์",
+    "updated": "2022-11-29 06:11:02.115"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090410",
+    "created": "2022-11-29 06:11:02.127",
+    "id": "k0p00jmdrakv6p8",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสกลนคร",
+    "updated": "2022-11-29 06:11:02.127"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090411",
+    "created": "2022-11-29 06:11:02.137",
+    "id": "sdhv1cjq1wfegs4",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนครพนม",
+    "updated": "2022-11-29 06:11:02.137"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090412",
+    "created": "2022-11-29 06:11:02.146",
+    "id": "xsusdcrn4g0qzvr",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดมุกดาหาร",
+    "updated": "2022-11-29 06:11:02.146"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090501",
+    "created": "2022-11-29 06:11:02.155",
+    "id": "utc7keah6htuviy",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดเชียงใหม่",
+    "updated": "2022-11-29 06:11:02.155"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090502",
+    "created": "2022-11-29 06:11:02.165",
+    "id": "zk2fldn71gcwjk3",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดลำพูน",
+    "updated": "2022-11-29 06:11:02.165"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090503",
+    "created": "2022-11-29 06:11:02.175",
+    "id": "5zx2dma1kg0l0hc",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดลำปาง",
+    "updated": "2022-11-29 06:11:02.175"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090504",
+    "created": "2022-11-29 06:11:02.185",
+    "id": "wphuo9uppzkql86",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดแพร่",
+    "updated": "2022-11-29 06:11:02.185"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090505",
+    "created": "2022-11-29 06:11:02.417",
+    "id": "xitfli2kben1zbp",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดน่าน",
+    "updated": "2022-11-29 06:11:02.417"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090506",
+    "created": "2022-11-29 06:11:02.428",
+    "id": "fmo7iyi64txu9zl",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพะเยา",
+    "updated": "2022-11-29 06:11:02.428"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090507",
+    "created": "2022-11-29 06:11:02.440",
+    "id": "2qgf8vy3jbzacq2",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดเชียงราย",
+    "updated": "2022-11-29 06:11:02.440"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090508",
+    "created": "2022-11-29 06:11:02.450",
+    "id": "uzc4njsh8xjnvev",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดแม่ฮ่องสอน",
+    "updated": "2022-11-29 06:11:02.450"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090601",
+    "created": "2022-11-29 06:11:02.461",
+    "id": "lblp3t1fne4rxhz",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดอุตรดิตถ์",
+    "updated": "2022-11-29 06:11:02.461"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090602",
+    "created": "2022-11-29 06:11:02.477",
+    "id": "5rwiv4c148ih3w1",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนครสวรรค์",
+    "updated": "2022-11-29 06:11:02.477"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090603",
+    "created": "2022-11-29 06:11:02.485",
+    "id": "lj3oaecfyal847i",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดอุทัยธานี",
+    "updated": "2022-11-29 06:11:02.485"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090604",
+    "created": "2022-11-29 06:11:02.496",
+    "id": "7xx8wog7fnu8dut",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดกำแพงเพชร",
+    "updated": "2022-11-29 06:11:02.496"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090605",
+    "created": "2022-11-29 06:11:02.506",
+    "id": "loee87jaxmlhfa0",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดตาก",
+    "updated": "2022-11-29 06:11:02.506"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090606",
+    "created": "2022-11-29 06:11:02.515",
+    "id": "p0cu3ycyb627to1",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสุโขทัย",
+    "updated": "2022-11-29 06:11:02.515"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090607",
+    "created": "2022-11-29 06:11:02.524",
+    "id": "q4zcuyd0b75jj1x",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพิษณุโลก",
+    "updated": "2022-11-29 06:11:02.524"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090608",
+    "created": "2022-11-29 06:11:02.533",
+    "id": "v7uf0y68o821f16",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพิจิตร",
+    "updated": "2022-11-29 06:11:02.533"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090609",
+    "created": "2022-11-29 06:11:02.561",
+    "id": "6a964ietzmxja02",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดเพชรบูรณ์",
+    "updated": "2022-11-29 06:11:02.561"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090701",
+    "created": "2022-11-29 06:11:02.572",
+    "id": "dc1twmtc3pgj5w0",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดราชบุรี",
+    "updated": "2022-11-29 06:11:02.572"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090702",
+    "created": "2022-11-29 06:11:02.582",
+    "id": "t9opuwkkoe5ry50",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดกาญจนบุรี",
+    "updated": "2022-11-29 06:11:02.582"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090703",
+    "created": "2022-11-29 06:11:02.600",
+    "id": "8hdhhdip19bh42i",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสุพรรณบุรี",
+    "updated": "2022-11-29 06:11:02.600"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090704",
+    "created": "2022-11-29 06:11:02.614",
+    "id": "hscabf533h3iijw",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนครปฐม",
+    "updated": "2022-11-29 06:11:02.614"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090705",
+    "created": "2022-11-29 06:11:03.109",
+    "id": "vzm1a7vdxwd1lvj",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสมุทรสาคร",
+    "updated": "2022-11-29 06:11:03.109"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090706",
+    "created": "2022-11-29 06:11:03.117",
+    "id": "6czzwuzr6kdtza6",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสมุทรสงคราม",
+    "updated": "2022-11-29 06:11:03.117"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090707",
+    "created": "2022-11-29 06:11:03.127",
+    "id": "mr2cnbx3zoh88ro",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดเพชรบุรี",
+    "updated": "2022-11-29 06:11:03.127"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090708",
+    "created": "2022-11-29 06:11:03.136",
+    "id": "soxlewp8c5jurw1",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดประจวบคีรีขันธ์",
+    "updated": "2022-11-29 06:11:03.136"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090801",
+    "created": "2022-11-29 06:11:03.161",
+    "id": "05uongmvoqp0yb5",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนครศรีธรรมราช",
+    "updated": "2022-11-29 06:11:03.161"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090802",
+    "created": "2022-11-29 06:11:03.170",
+    "id": "58mtpbhzmrs68ya",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดกระบี่",
+    "updated": "2022-11-29 06:11:03.170"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090803",
+    "created": "2022-11-29 06:11:03.180",
+    "id": "q1fpfe9in02a9tv",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพังงา",
+    "updated": "2022-11-29 06:11:03.180"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090804",
+    "created": "2022-11-29 06:11:03.191",
+    "id": "mhku6jpx87momf7",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดภูเก็ต",
+    "updated": "2022-11-29 06:11:03.191"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090805",
+    "created": "2022-11-29 06:11:03.207",
+    "id": "giheauuu70j1jid",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสุราษฎร์ธานี",
+    "updated": "2022-11-29 06:11:03.207"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090806",
+    "created": "2022-11-29 06:11:03.218",
+    "id": "v64dswa621p0klb",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดระนอง",
+    "updated": "2022-11-29 06:11:03.218"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090807",
+    "created": "2022-11-29 06:11:03.463",
+    "id": "4seqtfiq4hr27au",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดชุมพร",
+    "updated": "2022-11-29 06:11:03.463"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090901",
+    "created": "2022-11-29 06:11:03.471",
+    "id": "m9mogpo8e2rcpil",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสงขลา",
+    "updated": "2022-11-29 06:11:03.471"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090902",
+    "created": "2022-11-29 06:11:03.480",
+    "id": "qichkyfd4wgthjb",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสตูล",
+    "updated": "2022-11-29 06:11:03.480"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090903",
+    "created": "2022-11-29 06:11:03.491",
+    "id": "apglgrmf8cc3bap",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดตรัง",
+    "updated": "2022-11-29 06:11:03.491"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090904",
+    "created": "2022-11-29 06:11:03.501",
+    "id": "em1okgp3h26c528",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพัทลุง",
+    "updated": "2022-11-29 06:11:03.501"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090905",
+    "created": "2022-11-29 06:11:03.512",
+    "id": "tt9qaai9vp7rxtc",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดปัตตานี",
+    "updated": "2022-11-29 06:11:03.512"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090906",
+    "created": "2022-11-29 06:11:03.521",
+    "id": "d8egzfdxfqfminn",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดยะลา",
+    "updated": "2022-11-29 06:11:03.521"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090907",
+    "created": "2022-11-29 06:11:03.558",
+    "id": "lfy0pokh0d6jf8d",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดนราธิวาส",
+    "updated": "2022-11-29 06:11:03.558"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070507",
+    "created": "2022-11-29 06:11:03.566",
+    "id": "w4mltlts95mria0",
+    "name": "ศาลจังหวัดน่าน (สาขาปัว)",
+    "updated": "2022-11-29 06:11:03.566"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070512",
+    "created": "2022-11-29 06:11:03.576",
+    "id": "juf5cx76g0v8ker",
+    "name": "ศาลจังหวัดแม่ฮ่องสอน (สาขาปาย)",
+    "updated": "2022-11-29 06:11:03.576"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070516",
+    "created": "2022-11-29 06:11:03.586",
+    "id": "fw3a5kh2utpocqi",
+    "name": "ศาลจังหวัดเชียงราย (สาขาเวียงป่าเป้า)",
+    "updated": "2022-11-29 06:11:03.586"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070614",
+    "created": "2022-11-29 06:11:03.595",
+    "id": "la2eonufbe1h6x5",
+    "name": "ศาลจังหวัดพิษณุโลก (สาขานครไทย)",
+    "updated": "2022-11-29 06:11:03.595"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3070416",
+    "created": "2022-11-29 06:11:03.604",
+    "id": "eg1i7tolxepf91j",
+    "name": "ศาลจังหวัดมหาสารคาม (สาขาพยัคฆภูมิพิสัย)",
+    "updated": "2022-11-29 06:11:03.604"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030102",
+    "created": "2022-11-29 06:11:03.613",
+    "id": "391yxx2vkozwhvd",
+    "name": "ศาลแรงงานภาค 1 (สาขาพระนครศรีอยุธยา)",
+    "updated": "2022-11-29 06:11:03.613"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3030202",
+    "created": "2022-11-29 06:11:03.622",
+    "id": "as8xsxug5bca00e",
+    "name": "ศาลแรงงานภาค 2 (สาขาระยอง)",
+    "updated": "2022-11-29 06:11:03.622"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090509",
+    "created": "2022-11-29 06:11:03.631",
+    "id": "10k1v4nc2xxdbb6",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดเชียงใหม่ (ฝาง)",
+    "updated": "2022-11-29 06:11:03.631"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090610",
+    "created": "2022-11-29 06:11:03.641",
+    "id": "56l0g69rutd3tzf",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดตาก (แม่สอด)",
+    "updated": "2022-11-29 06:11:03.641"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090808",
+    "created": "2022-11-29 06:11:03.651",
+    "id": "ony0ek7349axecn",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดพังงา (ตะกั่วป่า)",
+    "updated": "2022-11-29 06:11:03.651"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090809",
+    "created": "2022-11-29 06:11:03.663",
+    "id": "hsp7sdzvbw7syle",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดสุราษฎร์ธานี (เกาะสมุย)",
+    "updated": "2022-11-29 06:11:03.663"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090908",
+    "created": "2022-11-29 06:11:03.681",
+    "id": "cq7iev3qd79pbdv",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดยะลา (เบตง)",
+    "updated": "2022-11-29 06:11:03.681"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "3090709",
+    "created": "2022-11-29 06:11:03.693",
+    "id": "cjxlmmjsfcd4ju2",
+    "name": "ศาลเยาวชนและครอบครัวจังหวัดกาญจนบุรี (ทองผาภูมิ)",
+    "updated": "2022-11-29 06:11:03.693"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000003",
+    "created": "2022-11-29 06:11:03.703",
+    "id": "wuom30yi12ash8x",
+    "name": "ศาลอุทธรณ์คดีชำนัญพิเศษแผนกคดีทรัพย์สินทางปัญญาและการค้าระหว่างประเทศกลาง",
+    "updated": "2022-11-29 06:11:03.703"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000004",
+    "created": "2022-11-29 06:11:03.713",
+    "id": "g6dga2r8bqwcvhg",
+    "name": "ศาลอุทธรณ์คดีชำนัญพิเศษแผนกคดีเยาวชนและครอบครัว",
+    "updated": "2022-11-29 06:11:03.713"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000005",
+    "created": "2022-11-29 06:11:03.722",
+    "id": "lwo8mcbgg6d3pw4",
+    "name": "ศาลอุทธรณ์คดีชำนัญพิเศษแผนกคดีภาษีอากร",
+    "updated": "2022-11-29 06:11:03.722"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000006",
+    "created": "2022-11-29 06:11:03.731",
+    "id": "ht7vzkwdd4zcz5y",
+    "name": "ศาลอุทธรณ์คดีชำนัญพิเศษแผนกคดีแรงงาน",
+    "updated": "2022-11-29 06:11:03.731"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000007",
+    "created": "2022-11-29 06:11:03.740",
+    "id": "jryseval7m24c46",
+    "name": "ศาลอุทธรณ์คดีชำนัญพิเศษแผนกคดีล้มละลาย",
+    "updated": "2022-11-29 06:11:03.740"
+    },
+    {
+    "@collectionId": "kfmyb8ucx9oyuea",
+    "@collectionName": "court_code",
+    "court_code": "2000008",
+    "created": "2022-11-29 06:11:03.749",
+    "id": "faiiut0mt09ywlw",
+    "name": "ศาลอุทธรณ์แผนกคดียาเสพติด",
+    "updated": "2022-11-29 06:11:03.749"
+    }
+    ]
+    }
